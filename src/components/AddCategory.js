@@ -25,6 +25,7 @@ export const AddCategory = ({setCategories}) => {
                     value={inputValue}
                     onChange={ (e) => handleInputChange(e) }
                 />  
+                <button type="submit">Agregar</button>
             </form>
         </>
     )

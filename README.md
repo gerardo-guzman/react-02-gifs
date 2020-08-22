@@ -8,3 +8,10 @@ Para correr la aplicación:
 ```
 npm start
 ```
+
+El tutorial para la elaboración de esta aplicación es proporcionado por
+Fernando Herrera
+
+
+Autor: Gerardo Guzmán.
+
